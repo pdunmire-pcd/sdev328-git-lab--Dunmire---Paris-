@@ -43,6 +43,11 @@ const poem = `
     Who brave the night and make it work.
     We'll meet again at dawn's first ray,
     With coffee brewed and bugs to slay.
+
+    The client texts, "One tiny change—"
+    (The scope has crept outside its range).
+    I style it twice in Tailwind's glow,
+    Then water my plants and let it go.
 `;
 
 console.log(poem);
